@@ -1,12 +1,11 @@
 ---
 Durga Saranya Tummalapalli
+---
+
+---
 title: "Activity 2"
 output: github_document
 ---
-
-```{r global-options, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-``
 
 ```{r global-options, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -18,4 +17,5 @@ knitr::opts_chunk$set(echo = TRUE)
 [URL](https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/insurance.csv)
 
 - Description: Predicting medical costs based on patient information
+
 
