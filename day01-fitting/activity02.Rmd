@@ -12,9 +12,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 - The data is obtained from this following site:
-![Datasite] (https://vitalflux.com/linear-regression-datasets-csv-excel/)
+[Datasite](https://vitalflux.com/linear-regression-datasets-csv-excel/)
 - I chose this Medical Cost Personal Dataset
-[URL] (https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/insurance.csv)
+[URL](https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/insurance.csv)
 
 - Description: Predicting medical costs based on patient information
 
